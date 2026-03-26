@@ -1,0 +1,6 @@
+../Core/Src/main.c:80:5:main	88	static
+../Core/Src/main.c:155:6:SystemClock_Config	88	static
+../Core/Src/main.c:193:9:CAN_Read	24	static
+../Core/Src/main.c:202:6:CAN_Send_Incremental	48	static
+../Core/Src/main.c:231:6:HAL_CAN_RxFifo0MsgPendingCallback	24	static
+../Core/Src/main.c:253:6:Error_Handler	4	static,ignoring_inline_asm
